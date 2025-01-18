@@ -1,0 +1,141 @@
+There is a curious similarity in the way managers at Lands’ End and McDonald’s articulate marketing goals.
+They each talk not about selling products but about keeping customers.
+For Lands’ End, this style of talk is not unexpected; it is the language of direct mail.
+But it is also becoming increasingly common at busi- nesses whose methods of going to market are by no means limited to the mail.
+As communication tools become interactive, marketing managers talk more about goals that pertain to individual relationships, such as share of customer requirements, customer- contact outcomes, and customer satisfaction mea- sures.
+Just as the art of conversation follows two separate steps first striking up a conversation with a likely partner and then maintaining the flow the work of acquiring customers and the work of retaining them.
+Growing a business can therefore be framed as a matter of getting customers and keeping them so as to grow the value of the customer base the sum of all the conversations to its fullest potential.
+In these terms, setting a marketing budget becomes the task of balancing what is spent on customer ac- quisition with what is spent on retention.
+Clearly, not every company wants to balance ac- quisition and retention at the same point.
+In some industries, such as low-end, used-car retailing, to take an extreme example, retention strategies have no leverage, because the intrinsic of customers is simply too low.
+In others, the relative importance of retention changes as the industry evolves.
+How can managers determine the optimal balance between acquisition and retention for their particular companies?
+The criterion we propose for determining the op- timal balance is the company’s customer equity.
+The balance is optimal when customer equity is at its maximum amount.
+To measure that equity, we tion toward offsetting the company’s fixed costs over the expected life of that customer.
+Then we discount the expected contributions to a net pres- ent value at the company’s target rate of return for marketing investments.
+Finally, we add together the discounted, expected contributions of all cur- rent customers.
+Appraising customer equity is conceptually simi- lar to appraising the value of a portfolio of income- producing real estate.
+Two of its main determinants better than people at combining simple predictions to address a larger issue.
+In this case, we approach the larger question What is the optimal balance between customer ac- quisition and customer retention at my company?
+The curves we will create reveal the points at which a company is spend- ing more than a customer is worth to acquire or retain.
+Those points, along with consideration of several other factors, show managers how their acquisition and retention ef- forts should be balanced.
+But a host of other factors, including remarketing costs and brand strategy, can also have significant influence.
+Ultimately, we contend that the appropriate question for judging new products, new programs, and new customer-service initiatives should not be, Will it attract new customers?
+The goal of maximizing customer equity by balancing acquisition and retention ef- forts properly should serve as the star by which a company steers its entire marketing program.
+To use customer equity as the criterion that bal- ances spending on getting and keeping customers, we need to express it as the sum of two net present values: the returns from acquisition spending and the returns from retention spending.
+We use a tool called decision calculus to build a model of this re- lationship by creating two curves.
+The first curve relates acquisition spending to the resulting acqui- sition rate, and the second curve relates retention spending to the resulting retention rate.
+These curves characterize the company and its industry.
+What is decision calculus?
+It is an approach to de- cision making in which a manager breaks down a complex problem into smaller, simpler elements, forms judgments about each element separately, and then uses a formal model to turn those small judgments into an answer to the larger question.
+Studies have shown that people can predict simple events better than complex ones, and models are using, for ease of description, a case in which a company markets a single product that customers buy once or twice a year.
+Amending the method later to accommo- date refinements will be a straightforward task.
+We have chosen to work with a product that is purchased at least once a year to make it practical to express retention rates on a per-year basis.
+If cus- they are with automobiles and other durables, it is better for managers to estimate retention rates on a per-cycle basis.
+Finally, and again simplifying for the sake of ex- position, we gloss over the question of the lapsed customer.
+If a customer is not retained, we will as- sume that the cost of reactivating that customer will be the same as the cost of acquiring a prospect.
+In practice, it usually costs less.
+We begin by estimating the shape of the compa- ager to provide two points on the curve: first, the the ceiling the highest possible number of cus- tomers the company could reasonably acquire in a given time period.
+There is a ceiling, which will vary from industry to industry.
+For example, the ceiling is much lower for a property and casualty insurance company using direct mail to acquire new customers than it is for the average catalog retailer.
+On the other hand, in the automotive industry, even the strong- est brands have low retention ceilings.
+On aver- age, manufacturers seldom induce more than of buyers to purchase the same brand of automobile on two successive occasions.
+We first ask the manager, What did you spend last year to attract prospects?
+To figure out what was spent per prospect, estimate how many prospects were converted into customers.
+What proportion of the prospect pool was converted?
+The manager answers, We spent per prospect to attempt to induce a first transaction, and we suc- ceeded of the time.
+Then we ask, If for all practical purposes there had been no limit to spending, what proportion of the prospects that you targeted over the course of the last year could have been converted?
+The manager answers, I don’t think we could ever induce more than of our prospect pool to become first-time customers.
+Those answers are all that is needed to decide on the optimum amount to spend to acquire a cus- tomer.
+The that curve, with no further information except the margin generated by a customer in a year, to com- pute the U-shaped curve in the upper half of the graph.
+That second curve depicts how the average value of acquired customers in the first year varies with spending on acquisition, first growing as the company attracts eager buyers and then declining as it goes after more reluctant prospects who re- quire more expensive wooing.
+The peak of that curve tells us at what point to stop acquiring.
+We now need a second dialogue to elicit the man- We begin by asking the manager, What did you spend last year on retention activities?
+Divide that amount by the number of customers you had at the start of that year to get the retention expenditure per customer.
+What proportion of your customers did you succeed in keeping for the year?
+The manager answers, Last year, we spent at the rate of per customer and retained of the customer base.
+Then we ask, If your budget had been unlimited, what proportion of customers in one year would have remained customers in the following year?
+The manager answers, At best, we might retain of our customers from one year to the next.
+Those answers give us the other side of the bal- ance point between acquisition and retention.
+We use the answers first to gener- ate a curve that relates retention spending to suc- the curve reflects the diminishing returns in efforts to retain customers.
+Next, we generate the curve in the upper half of the graph, a curve that grows as re- tention spending gives the customer more reasons to remain loyal, and then declines as customers no longer value the retention service enough to cover its cost.
+Despite the simplicity of this example, it illus- trates how the decision-calculus process in this case, using four small, explicit decisions and a model to solve one large, messy problem can pay off.
+Do this manager’s actions coincide with his or her intui- tions?
+Are the current spending levels consistent with the curves he or she believes apply in this mar- ket?
+The actual expenditures of per pros- pect and per convert are, given the manager’s both too low.
+The acquisition budget should be in- creased to per prospect; the retention budget would be optimal at per customer.
+At these levels of spending, the company’s customer equity would reach its peak.
+The balance between acquisition and retention spending is never static.
+Managers must constantly reassess the spending points determined by the de- cision-calculus model, keeping in mind a host of considerations.
+The following guidelines should help frame the issue.
+This logic should be applied to much finer distinctions list.
+Instead of using averages drawn across the en- tire customer base, for example, a more subtle analysis would partition the base into behaviorally and attitudinally homogeneous groups that spend at different levels, and it would estimate the shape of acquisition and retention curves for each group.
+The analysis would then proceed to evaluate the customer equity of each group, starting with the most valuable and proceeding to the least.
+For each group, the analysis first would determine the opti- mal investment required to retain members of that group and then how much to spend to acquire more Targets with particularly high equity might jus- tify major investments.
+Airlines, for example, know that a large investment in retention incentives pays off.
+One result is the progressive structure of airline frequent-flier incentives: The more a customer flies, the easier it becomes for that customer to earn more generous benefits.
+When eval- uating new products and services, keep in mind that small changes can have a big impact.
+Indeed, the value of improvements in customer equity is of- ten not fully appreciated until it is expressed as a capitalized amount.
+Consider what happened when a major manufacturer of durable goods discovered that a component of one of its products was failing at a rate of within one year of purchase.
+The operations manager determined that it was less costly to replace the component in the of prod- replace it in of the products in inventory.
+His calculation accurately assessed the single-period cost to the company of each course of action but took no account of the impact on customer satisfac- tion or the probability of repeat purchases.
+When the problem was reframed from the perspective of the potential for losing customers, the managers saw immediately that replacing the component in the warehouse was the better alternative.
+Some critics argue that competition has negated the influence of the bene- fits.
+We would argue, on the contrary, that reten- tion programs, if skillfully designed, can be much more than volume-discount programs.
+They can in- The key is to deliver benefits that appeal more to heavy users than to light users, that draw attention the buying experience so that the heavy user be- comes an even heavier user.
+For example, Nintendo and Lego designed clubs that showed members new ways for kids to enjoy their games and toys.
+Through the clubs, children also came into contact with other heavy users.
+And hotels have made club membership a source of customer recognition and a way to ease the strains of the traveling life.
+In other words, if the customer buys product A, will he or she buy products that supplement or comple- ment product A?
+Someone who buys a new car will later need service visits, body repairs, and new parts.
+An accounting partnership can be confident that if it wins the contract to perform au- dits for a client, it will probably be able to sell other accounting services to that same client.
+Additional sales enhance the value of the customer relation- ship over time.
+In this way, re- duced costs of remarketing are one of the less visi- ble rewards of investment in customer satisfaction.
+With high acquisition costs, retention rates and add-on sales must be high to make the product or service viable.
+Despite this potential benefit, many companies do not know what per- centage of their marketing budget is being used to acquire new customers and what percentage is be- ing spent on existing customers.
+Is the company’s general advertising building loyalty, acquiring cus- tomers, or both?
+For example, a life insurance company, noticing that its customer acquisition costs were higher than normal for the industry, introduced prequali- fication procedures in order to discourage agents from pursuing prospects when the likelihood of writing a policy was low.
+Although the procedures the cost of acquiring customers by even more and boosted both the company’s profits and its cus- tomer equity.
+A company that churns its cus- tomer base customers just as fast as it loses them) can report good sales and profits even as its customer equity is evaporating.
+Whereas an income statement gives no indication of churning, a customer-value statement reports whether the company’s marketing programs are building or eroding the customer base.
+When American Express Company acquired IDS Financial Services, a company that markets insur- ance and mutual fund products through a , member sales force, it found that behind IDS’s at- tractive rate of sales and profit growth lurked a high rate of churning.
+IDS was losing a client almost every time it gained one.
+And marketing programs implemented at headquarters were fueling the churning.
+IDS was spending on marketing pro- grams to generate leads for the sales force for every that it spent on programs to strengthen the rela- tionship between the company and existing clients.
+When an American Express study found that IDS was assets, the company immediately shifted its focus from acquisition marketing to retention mar- keting.
+By promoting personal financial plans, IDS made it easier for reps to make additional sales to existing customers than it had been.
+The result was not seen in annual sales, which continued at their steady clip, but rather in much more rapid growth in the lifetime value of the customer base, which promised a more secure future for IDS.
+Despite the fashion- able concern with brand power, few would dispute that highly visible brands are just one instrument among many with ferent brand manager bent on maximizing share in his or her market, and the manager of the strong brand resisted allowing the weaker siblings to ride on its coattails.
+But research showed that the strong brand had as much to gain from cooperation as the other two.
+When experiments were conducted to measure the response to coupons for one product delivered only to users of the other two, all three brands showed impressive results.
+It was easier to persuade a user of two of the products to try the third than to persuade a nonuser of any of the prod- ucts to try one.
+When that use changes, retainability changes at the same time, and companies must scramble to adjust their allocation of marketing funds.
+For years, marketers in the air freight industry re- quired expertise in customer acquisition.
+An effi- cient acquirer earned a higher return than a skilled retention marketer because customer satisfaction was out of the hands of the shipper and in the con- trol of the airlines that carried the freight.
+Federal icated to nothing but freight, gave shippers more control over customer satisfaction and sharply in- creased the returns that could be earned through re- tention marketing.
+Suddenly, the successful com- panies were successful retainers.
+Brands are never more important than the customers they reach.
+Once Sears reanalyzed its transaction records asking not, What are our most valuable brands?
+Managers should watch for signs that brand man- agement is impeding customer management.
+Con- sider a Canadian manufacturer that makes prod- ucts in three distinct markets under the same brand name.
+One product is strong; the other two are weak.
+Several years ago, each was managed by a dif- Traditionally, IBM ran its mainframe computer business as a retention business, training its sales force to follow the initial sale with attempts to sell peripheral equipment, software, a contract with its service bureau, and so on.
+Customers were prized because they became lifetime IBM users.
+But as microcomputers displaced mainframes for many ap- plications, the company was compelled to deploy more of its marketing funds for acquisition.
+For a time, IBM tried to exploit past loyalties by endorsing selected software and attaching its brand name to peripher- als, but the game had changed.
+Today the company has cut back on its famed sales force in favor of less expensive retention tools such as database technol- ogy and catalog-based direct sales.
+The com- pany then formed a team to address acquisition ef- forts for that customer segment.
+Next, it charged a retention team with the task of finding what it would take to keep those customers.
+The team came up with a fast track for arriving transatlantic passengers that included accelerated processing of customs and immigration documents, private suites, and valet services.
+An organizational structure built around getting and keeping cus- tomers, not simply selling products, has some significant benefits.
+It al- lows the marketing organizations to use tactics that are appropriate for different customer segments.
+The winner is the company that reads the signal first.
+They require different kinds of market research, different cost analyses to calculate the return on investment, and different measures to monitor compliance.
+Separate marketing teams to manage customer acquisition projects and retention projects have proved effective in many companies, especially when the projects can be sharply defined by the needs of particular customer groups.
+British Air- ways, for example, identified U.S. residents who prospective customers.
+And the performance and compensation of marketing managers can be linked to increases in the customer equity between these two groups.
+When managers strive to grow customer equity rather than a brand’s sales or profit, they put the customer and the quality of customer relationships at the forefront of their strategic thinking.
+Product sales, brand strength, and short-term financial per- formance are mere secondary indicators of success.
+Furthermore, when managers ask how much a marketing investment will increase a company’s customer equity, the interests of the marketer and Just as an investment firm’s interests are served if its investment managers are judged by the change in portfolio value from one period to the next, so a company is well served if its marketers are judged by the increase in the company’s customer equity over time.
+If a marketing organization backs away from the challenge to link its fortunes to the cus- tomer-equity criterion, it either misunderstands the purpose of the marketing function or lacks the authority to carry out that purpose.
